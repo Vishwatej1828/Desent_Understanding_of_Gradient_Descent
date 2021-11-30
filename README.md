@@ -1,0 +1,2 @@
+# Desent_Understanding_of_Gradient_Descent
+Intution_of_Gradient_Descent_Method
